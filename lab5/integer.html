@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Integer form</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+		
+		<script type="text/javascript">
+			//function definition
+			function myHello() {
+				alert("Hello World!!");
+			}
+		</script>
+			
+		
+		
+		
+	</head>
+    <body>
+	<input type="button" value="Say hellllooooooo"	onclick="myHello()">
+        <div id="main">
+            <form action="https://www.random.org/integers/">
+                <table>
+                    <tr>
+                        <td><label>Number of integers:</label></td>
+                        <td><input type="text" name="num"/></td>
+                    </tr>
+                    <tr>
+                        <td><label>Min value:</label></td>
+                        <td><input type="text" name="min"/></td>
+                    </tr>
+                    <tr>
+                        <td><label>Max value:</label></td>
+                        <td><input type="text" name="max"/></td>
+                    </tr>
+                    <tr>
+                        <td><label>Columns:</label></td>
+                        <td><input type="text" name="col"/></td>
+                    </tr>
+                    <tr>
+                        <td><label>Base:</label></td>
+                        <td>
+                            <select name="base">
+                                <option value="2">2</option>
+                                <option value="8">8</option>
+                                <option value="10">10</option>
+                                <option value="16">16</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><label>Format</label></td>
+                        <td>
+                            <select name="format">
+                                <option value="plain">Plain</option>
+                                <option value="html">HTML</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><input type="submit" value="Submit"/></td>
+                        <td></td>
+                    </tr>
+                </table>
+                
+            </form>
+        </div>
+    </body>
+
+</html>

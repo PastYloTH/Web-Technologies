@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="Transform.xsl"?>
+
+<device>
+	<laptop>
+		<producator> Acer: </producator>
+		<display>HD, </display>
+		<CPU>Intel Core i3, </CPU>
+		<ram>
+			<capacitate>4 GB, </capacitate>
+			<freventa>1333, </freventa>
+			<tip>ddr3, </tip>
+		</ram>
+		<GPU> NVIDIA 1050TI. </GPU>
+	</laptop>
+	
+	<laptop>
+		<producator> Acer, </producator>
+		<display>Full HD, </display>
+		<CPU>Intel Core i5, </CPU>
+		<ram>
+			<capacitate>8 GB, </capacitate>
+			<freventa>2333, </freventa>
+			<tip>ddr4, </tip>
+		</ram>
+		<GPU> NVIDIA 1060 6GB. </GPU>
+	</laptop>
+	
+	<laptop>
+		<producator> Acer: </producator>
+		<display>UHD 4K, </display>
+		<CPU>Intel Core i7, </CPU>
+		<ram>
+			<capacitate>16 GB, </capacitate>
+			<freventa>2666, </freventa>
+			<tip>ddr4, </tip>
+		</ram>
+		<GPU> NVIDIA 1080TI. </GPU>
+	</laptop>
+	
+	<laptop>
+		<producator> ASUS: </producator>
+		<display>HD, </display>
+		<CPU>Intel Core i3, </CPU>
+		<ram>
+			<capacitate>2 GB, </capacitate>
+			<freventa>1333, </freventa>
+			<tip>ddr3, </tip>
+		</ram>
+		<GPU> Intel HD Graphics. </GPU>
+	</laptop>
+	
+	<laptop>
+		<producator> ASUS: </producator>
+		<display>Full HD, </display>
+		<CPU>Intel Core i5, </CPU>
+		<ram>
+			<capacitate>8 GB, </capacitate>
+			<freventa>2333, </freventa>
+			<tip>ddr4, </tip>
+		</ram>
+		<GPU> NVIDIA 1070. </GPU>
+	</laptop>
+	
+	<laptop>
+		<producator> ASUS: </producator>
+		<display>UHD 4K</display>
+		<CPU>Intel Core i7</CPU>
+		<ram>
+			<capacitate>32 GB</capacitate>
+			<freventa>3133</freventa>
+			<tip>ddr4</tip>
+		</ram>
+		<GPU> NVIDIA Titan XP </GPU>
+	</laptop>
+	
+	<laptop>
+		<producator> Lenovo: </producator>
+		<display>HD, </display>
+		<CPU>Intel Core i3, </CPU>
+		<ram>
+			<capacitate>4 GB, </capacitate>
+			<freventa>2333, </freventa>
+			<tip>ddr4, </tip>
+		</ram>
+		<GPU> NVIDIA 1050TI. </GPU>
+	</laptop>
+	
+	<laptop>
+		<producator> Lenovo: </producator>
+		<display>Full HD, </display>
+		<CPU>Intel Core i7, </CPU>
+		<ram>
+			<capacitate>16 GB, </capacitate>
+			<freventa>2600, </freventa>
+			<tip>ddr3, </tip>
+		</ram>
+		<GPU> NVIDIA 1080. </GPU>
+	</laptop>
+	
+	<laptop>
+		<producator> Toshiba: </producator>
+		<display>Full HD, </display>
+		<CPU>Intel Core i5, </CPU>
+		<ram>
+			<capacitate>4 GB, </capacitate>
+			<freventa>2333, </freventa>
+			<tip>ddr4, </tip>
+		</ram>
+		<GPU> Intel HD Graphics. </GPU>
+	</laptop>
+	
+	<laptop>
+		<producator> Toshiba</producator>
+		<display>Full HD</display>
+		<CPU>Intel Core i7</CPU>
+		<ram>
+			<capacitate>8 GB</capacitate>
+			<freventa>2333</freventa>
+			<tip>ddr4</tip>
+		</ram>
+		<GPU> NVIDIA 1070TI </GPU>
+	</laptop>
+	
+</device>
